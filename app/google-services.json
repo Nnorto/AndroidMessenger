@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566473871929",
+    "project_id": "androidmessenger-f871e",
+    "storage_bucket": "androidmessenger-f871e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566473871929:android:4d23aaffb534e30d8e33e8",
+        "android_client_info": {
+          "package_name": "com.example.androidmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkyH8y80gicM4Yb9rHqXVcDACowPfaEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
